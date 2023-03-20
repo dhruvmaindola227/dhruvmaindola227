@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Open source and personal projects.<br>👯 I’m looking to collaborate on Java and spring boot applications.<br>🌱 I’m currently learning spring boot and microservices.<br>💬 Ask me about anything<br>
+🔭 I’m currently working at Indus Valley Partners.<br>👯 I’m learning and working on C# , .NetCore , ReactJS , Entity Framework.<br>
 
 
 ## 🌐 Socials:
