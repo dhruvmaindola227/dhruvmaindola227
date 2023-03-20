@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Indus Valley Partners.<br>👯 I’m learning and working on C# , .NetCore , ReactJS , Entity Framework , MS SqlServer.<br>
+🔭 I’m currently working at Indus Valley Partners as Associate Software Engineer.<br>👯 I’m learning and working on C# , .NetCore , ReactJS , Entity Framework , MS SqlServer.<br>
 
 
 ## 🌐 Socials:
